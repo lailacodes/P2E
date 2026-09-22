@@ -32,28 +32,28 @@ The project breakdown, including:
 ### Project Vibe Check
 Upon completing each project, I will categorize my mental state during the building process as one of the following:
 
----
-
 <img src="assets/gifs/too_easy.gif" alt="Too Easy Gif" height=100> 
-<img src="assets/gifs/zoned_out.gif" alt="Zoned Out Gif" height=100> 
-<img src="assets/gifs/confused.gif" alt="Confused Gif" height=100> 
-<img src="assets/gifs/devastated.gif" alt="Devastated Gif" height=100>
-
-&emsp;&emsp;&emsp;**Too Easy**&emsp;&emsp;&emsp;&emsp;**Zoned Out**&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;**Confused**&emsp;&emsp;&emsp;&emsp;&emsp;**Devastated**
-
----
 
 1. Too Easy: 
 > ***Light Work, No Reaction.*** I could code this in my sleep.
 
+<img src="assets/gifs/zoned_out.gif" alt="Zoned Out Gif" height=100> 
+
 2. Zoned Out:
 > ***Disengaged***. I was bored. Definitely went through the motions just to complete it—because I'm no quitter :eyes:
+
+<img src="assets/gifs/confused.gif" alt="Confused Gif" height=100> 
 
 3. Confused: 
 > ***High-friction learning.***  I hit walls. I had to read documentation, watch tutorials, and rethink my architecture
 
+
+<img src="assets/gifs/devastated.gif" alt="Devastated Gif" height=100>
+
 4. Devastated: 
 > ***Total breakdown.*** The code won, and I lost my sanity. Definitely put in my fry cook application for the Krusty Krab
+
+---
 
 ## Table of Projects
 
